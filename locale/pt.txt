@@ -1,0 +1,27 @@
+#: locale=pt
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_DE2134C4_D128_0072_41CE_A18D230FE9D0.toolTip = Acesso ao Banheiro
+HotspotPanoramaOverlayArea_C041DF21_D128_002E_41E7_4ADAB4617B09.toolTip = Acesso ao mesanino
+HotspotPanoramaOverlayArea_DE86DDA1_D128_0033_41DE_451F836FB977.toolTip = Acesso as Escadas
+HotspotPanoramaOverlayArea_DE1FF25C_D128_0004_41DC_481571D45025.toolTip = Clique Aqui
+HotspotPanoramaOverlayArea_DE247606_D128_0002_41BD_00AA0A5AD1D8.toolTip = Clique Aqui
+
+## Media
+
+### Title
+panorama_90F2291A_B854_F875_41CB_CAE6A4C04D9B.label = Acesso Mezanino
+panorama_90F0BE4B_B9AB_18EB_41E6_F9ADE882B6B6.label = Esacada
+panorama_90F1AC08_B9AB_7855_41E5_007E07C6D303.label = Galpão
+panorama_90F16645_B854_E8DF_4169_CBD8434608C9.label = Galpão banheiro
+panorama_90F1F9A2_B9AB_1855_41E2_648915542706.label = Mesanino
+panorama_90F2B347_B9AB_28DC_41E4_C58B53469F65.label = Mesanino_banheiro
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Avenida João Ramalho_19750
